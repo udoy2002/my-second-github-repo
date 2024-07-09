@@ -1,0 +1,63 @@
+h2{
+    font-size: large;
+    text-decoration: underline;
+}
+.header{
+   height: 300px;;
+    background-image: url(udoy.jpg);
+    background-color: antiquewhite;
+display: 300px;
+}
+.saifullah{font-size: 100px;
+
+} .rahman{font-size: 100px;
+
+} .udoy{font-size: larger;
+
+}
+#p{
+    font-size: 100px;
+}<style>
+.blog{
+    margin: 10px;
+    border-color: brown;
+background-color: lightcyan;
+margin-top: 20px;
+border-radius: 10px;
+}
+.u{
+    shape-margin: initial;
+    background-color: aquamarine;
+    border: 20px initial blueviolet;
+    
+}
+*U1{
+    background-color: aqua;
+}
+.UD{
+    background-color: rgb(0, 255, 166);
+    color: black;
+}
+li{
+    color: aqua;
+}
+h2{
+    color: blueviolet;
+}
+h1{
+    background-color: aqua;
+}
+p{
+    color: rgb(255, 0, 106);
+    label{
+    color: brown;
+    }
+}
+.UU{
+    background-color: burlywood;
+}
+body{
+    width: 880px;
+}
+</style>
+
